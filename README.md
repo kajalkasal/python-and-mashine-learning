@@ -1,4 +1,4 @@
-# python-and-mashine-learning
+# python-and-machine-learning
 GETTING STARTED WITH MACHINE LEARNING IN PYTHON:
 Machine learning is one of the hottest new technologies to emerge into popular consciousness in the last decade, transforming fields from consumer electronics and healthcare to retail. This has led to intense curiosity about this field among many students and working professionals about the field.
 
